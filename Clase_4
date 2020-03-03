@@ -1,0 +1,29 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+
+
+def imprimir_matriz(matriz, total_filas, total_columnas):
+	for fila in range(total_filas)
+	for columna in rangue(total_columnas)
+	print(matriz[fila][columna])
+	
+m1= [[3.3, 6.1, 4.9], [4.9, 5.7, 6.4]]
+imprimir_matriz(m1,2,3)
+
+
+
+
+
+
+
+def imprimir_matriz(matriz):
+	for fila in range(2):
+		for columna in range(3):
+			print(matriz [fila][columna])
+
+m1= [[3.3, 6.1, 4.9], [4.9, 5.7, 6.4]]
+imprimir_matriz(m1)
